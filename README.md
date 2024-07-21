@@ -4,7 +4,7 @@ Philcodelib is a computational philosophy library/a cookbook for philosophy comp
 
 ## Description
 
-As a starting point, will Philcodelib be taliord for computational epistemology, starting with its initial features to be released soon.
+As a starting point, Philcodelib will be taliord for computational epistemology, starting with its initial features to be released soon.
 
 ## Getting Started
 
